@@ -131,5 +131,5 @@ address { margin-top: 16px; font: 400 clamp(44px, 8vw, 110px)/.95 Georgia, serif
   .hero-links { justify-content: center; margin-top: 20px; }
   .hero-photo { width: min(100%, 1120px); margin-inline: auto; }
   .hero-photo picture { border-radius: 48% 48% 4px 4px / 13% 13% 4px 4px; }
-  .hero-image { aspect-ratio: 2.5; object-position: center 31%; }
+  .hero-image { aspect-ratio: 2.15; object-position: center top; }
 }
